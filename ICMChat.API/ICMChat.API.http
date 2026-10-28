@@ -1,0 +1,6 @@
+@ICMChat.API_HostAddress = http://localhost:5223
+
+GET {{ICMChat.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
